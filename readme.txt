@@ -32,7 +32,7 @@ Under the following conditions:
 
 Attribution: 
 	
-   You must include a credit link to our website(http://www.qaptivecom) somewhere on
+   You must include a credit link to our website(http://www.qaptive.co.in) somewhere on
    your site. We prefer the footer credit that comes with the template but you are still 
    free to move it somewhere else.
 
@@ -131,6 +131,6 @@ Subscribe and follow us on:
 --------------------------------------------------------------------------------------------------------- 
 
 
-Thanks for downloading from Styleshout :)
+
   
 
